@@ -1,4 +1,13 @@
 body {
     color: aliceblue;
     background-color: black;
+    margin: 0px;
 }
+
+header {
+     border-bottom: solid 2px  rgba(64, 126, 197, 0.575);
+     margin: 20px;
+     font-size: 32px;
+     color: rgb(rgb(168, 42, 218);
+    }
+
